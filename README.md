@@ -1,4 +1,4 @@
-# Forest Fire Occurrence & Intensity Prediction (STW-BP)
+# Forest Fire Prediction System using Multi-Task STW-BP
 
 A multi-task deep learning system that predicts both **wildfire occurrence** and **wildfire intensity** across India, built on NASA MODIS satellite fire-detection data and a custom Spatio-Temporal Weighted (STW-BP) neural network architecture.
 
